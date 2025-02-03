@@ -1,3 +1,4 @@
 # Deepak-walia---Project
-This is my first Git Repository
-Author - Deeapk walia 
+This is my first Git Repositor
+<br/>
+Author - Deepak walia 
